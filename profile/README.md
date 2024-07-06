@@ -1,4 +1,6 @@
-# EditorialPerfection
+# EditorialPerfection 
+
+## [🚧 Currently in dev stage]
 
 Welcome to the **EditorialPerfection** organization! 
 We are dedicated to developing a versatile, open-source Content Management System (CMS) designed for blogging, online media, and personal websites. 
